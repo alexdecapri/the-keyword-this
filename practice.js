@@ -19,6 +19,7 @@
   // 4) What does .bind do?
 
       //this method creates a new function that, when called, has its this keyword set to the provided value, with a given sequence of arguments preceding any provided when the new function is called
+      //sets the "this" context for that function, and then returns it
 
 
 //Next Problem
